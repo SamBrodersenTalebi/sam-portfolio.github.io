@@ -1,0 +1,73 @@
+.github:hover{
+    color: #80a0b7;
+}
+
+.card-title:hover{
+    color:black;
+}
+
+.mdl-card__supporting-text{
+    font-family: 'Merriweather', serif !important;
+}
+
+.card{
+    margin-bottom: 20px !important;
+}
+
+@media only screen and (max-width: 600px){
+    .card{
+        margin: 20px auto !important;
+    }
+}
+
+
+#O1{
+    background-image: url("../portfolio/images/BoardGame.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#O2{
+    background-image: url("../portfolio/images/Brooklyn.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#O3{
+    background-image: url("../portfolio/images/ResReview.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#C1{
+    background-image: url("../portfolio/images/Jammming.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#C2{
+    background-image: url("../portfolio/images/Ravenous.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#U1{
+    background-image: url("../portfolio/images/PixelArt.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#U2{
+    background-image: url("../portfolio/images/Rock.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

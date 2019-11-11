@@ -1,0 +1,36 @@
+
+.text{
+    display:flex;
+
+}
+
+.text h3, p{
+    margin: 25px !important;
+}
+
+.text h3{
+    width: 30%;
+}
+
+.text p{
+    width:65%;
+}
+
+.about-me{
+    margin-top:50px;
+}
+
+@media only screen and (max-width: 974px) {
+    .text p, h3{
+        width: 90%;
+        
+    }
+
+    .text h3{
+        margin: 0 auto;
+    }
+
+    .text{
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,9 @@
+.projects-grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.tab{
+    margin-top:40px;
+    position: inherit;
+}

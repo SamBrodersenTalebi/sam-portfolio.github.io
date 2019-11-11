@@ -1,0 +1,24 @@
+.list-skill{
+  list-style: none;
+  margin: 0 25px;
+}
+
+.bar{
+  background: #353b48;
+  display: block;
+  height:2px;
+  border: 1px solid rgba(0,0,0,0.3);
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #2187e7b3;
+}
+
+.bar span{
+  height: 2px;
+  float: left;
+  background: #2187e7;
+}
+
+.procentage{
+  width: 20%;
+}
